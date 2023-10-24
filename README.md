@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+I created this HR App using NextJS and Material UI, it is a work in progress, you can just clone it and build on top of it.
+I'm using Next-Auth as well,the authorization is not completed yet and you will have to choose your desired authentication services.
+
+I also make server side calls to MongoDB in this app and do server side rendering.
+
 ## Getting Started
 
 First, run the development server:
